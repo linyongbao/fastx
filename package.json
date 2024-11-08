@@ -1,0 +1,30 @@
+{
+  "name": "lyb-fastx",
+  "version": "1.1.5",
+  "description": "A fast React scaffold tool with mobx support",
+  "main": "lib/index.js",
+  "bin": {
+    "fastx": "./bin/cli.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "templates"
+  ],
+  "overrides": {
+    "rimraf": "^4.0.0",
+    "glob": "^10.0.0"
+  },
+  "dependencies": {
+    "commander": "^8.0.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "mobx": "^6.3.12",
+    "mobx-react-lite": "^3.2.2"
+  }
+}
