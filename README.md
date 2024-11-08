@@ -1,5 +1,5 @@
 
-# 🚀 FastX CLI
+# 🚀 FastX CLI 
 
 
 ## ✨ 特性
@@ -51,3 +51,5 @@ pnpm build
 - pnpm >= 7.0.0
 
 ---
+
+- 核心库仓库：https://github.com/linyongbao/fastp
