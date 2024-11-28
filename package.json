@@ -1,6 +1,6 @@
 {
   "name": "lyb-fastx",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "description": "A fast React scaffold tool with mobx support",
   "main": "lib/index.js",
   "bin": {
